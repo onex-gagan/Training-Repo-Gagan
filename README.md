@@ -1,9 +1,4 @@
-# training-repo
+# Training-repo
 A private repo for the 1 month fresher training program.
 
-### This is justa a training repository made for practicing git and github.
-
-### changed from the random-branch
-### changes made from branch-a
-
-## chnges made from BRANCH C
+### This is just a training repository where I will be uploading all the assignments and exercises.
