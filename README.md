@@ -1,6 +1,6 @@
 # Fresher R&D Training Repository
 
-# Gagan Ahirrao - gagan.ahirrao@onextel.com
+### Gagan Ahirrao - gagan.ahirrao@onextel.com
 
 Welcome to the official repository for the **Fresher R&D Training Program**. This repo contains day-wise exercises and notes based on the training sessions conducted by our mentors.
 
